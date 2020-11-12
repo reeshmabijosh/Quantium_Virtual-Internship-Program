@@ -1,5 +1,5 @@
 # Quantium Virtual Internship Program
-Task 1: Data preparation and customer analytics
+<b>Task 1</b>: Data preparation and customer analytics
 Conducted analysis on  client's transaction dataset and identified customer purchasing behaviours to generate insights and provide commercial recommendations.
 
 Task 2:Experimentation and uplift testing
